@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2019",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Sociology",
+      "Community Development"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Social Justice"
+    ]
+  ],
+  "legacy_uid": "29219ed7-41a8-6619-1711-4a646fab8409",
+  "instructors": {
+    "content": [
+      "5f2083e9-54d4-9bae-fd34-d56876163910"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "803b0a61-363b-a1fe-3484-64e4ae5f2ef7",
+    "website": "11-s945-equity-inclusion-local-policy-driven-strategies-for-economic-development-the-just-city-spring-2019"
+  },
+  "course_title": "Equity & Inclusion: Local Policy-Driven Strategies for Economic Development & the Just City",
+  "course_description": "This course explores equity as a key value, measure, and framework for operationalizing local economic development plans and policies. It examines the implementation of local policy initiatives for equity in U.S. cities and investigates a wide range of contemporary theory and practice in the field of urban economic development, from contracting and municipal procurement to arts and culture-driven approaches.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.S945",
+  "course_image_thumbnail": {
+    "content": "e76d321b-076d-72ba-bf20-a3d922da443b",
+    "website": "11-s945-equity-inclusion-local-policy-driven-strategies-for-economic-development-the-just-city-spring-2019"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "308b03d5-cf5c-4421-837d-010186750739",
+  "site_short_id": "11.s945-spring-2019",
+  "site_url_path": "courses/11-s945-equity-inclusion-local-policy-driven-strategies-for-economic-development-the-just-city-spring-2019",
+  "title": "Course Metadata"
+}
