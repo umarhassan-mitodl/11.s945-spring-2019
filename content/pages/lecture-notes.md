@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: A table of links to pdfs of lecture notes for selected lectures in 11.S945.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-s945-equity-inclusion-local-policy-driven-strategies-for-economic-development-the-just-city-spring-2019/c0bccac966928de45dbedf0dc545764c_MIT11_s945s19_Lecture3.pdf
 file_size: 243855
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
